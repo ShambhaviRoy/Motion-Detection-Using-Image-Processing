@@ -1,3 +1,4 @@
 # Motion-Detection-Using-Image-Processing
-Programmed a computationally low-cost algorithm in Python and OpenCV to detect human motion in an indoor area to automate surveillance tasks. 
+This is a computationally low-cost algorithm in Python and OpenCV to detect human motion in an indoor area to automate surveillance tasks. 
 The method proposed aims to detect motion in indoor areas for surveillance. This method requires two subsequent images captured by a single fixed camera sensor and detects motion in the interval between the two images. This is done by pre-processing and image subtraction followed by further processing to eliminate insignificant changes in the two image frames. The method presented here detects motion accurately and has good performance with low quality images. 
+The code follows steps of the paper: https://ieeexplore.ieee.org/document/8978381 and can be tried on two successive images to check for human presence and motion.  
