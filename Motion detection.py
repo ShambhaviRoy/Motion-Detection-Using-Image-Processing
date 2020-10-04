@@ -1,10 +1,3 @@
-   
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jun 23 11:18:12 2019
-
-@author: admin
-"""
 import numpy as np
 # Homomorphic filter class
 class HomomorphicFilter:
